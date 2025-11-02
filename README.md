@@ -20,7 +20,7 @@
 - 👯 I'm looking to collaborate on **open-source projects and innovative ideas.**
 - 🤔 I'm looking for help with **advanced programming concepts and best practices.**
 - 💬 Ask me about **Python, Web Development, or any tech-related stuff!**
-- 📫 How to reach me: **fardin.shaikh21@example.com**
+- 📫 How to reach me: **fardinshaikh8875@gmail.com**
 - ⚡ Fun fact: **I can debug code better with coffee ☕**
 
 ---
