@@ -122,23 +122,6 @@ Let’s connect and build something meaningful together!
 
 ---
 
-## 📝 Project Summaries  
-
-#### 🐔 Cloud-Based Cluckbox Delivery System  
-- Developed a **user-friendly web platform** for ordering chicken online.  
-- Deployed on **AWS EC2** for cloud scalability and high availability.  
-- Designed with a **responsive UI** and smooth backend integrations.  
-- Focused on **efficient data handling**, real-time updates, and an intuitive customer experience.  
-
-#### 🤖 College Enquiry ChatBot  
-- Built an **AI-powered chatbot** to assist users in retrieving college information quickly.  
-- Used **Natural Language Processing (NLP)** with **NLTK** to interpret and respond to user queries.  
-- Automated repetitive information requests, improving student interaction efficiency.  
-- Deployed with a **clean interface** for web-based accessibility.  
-
----
-
-
 ## 🤝 Let's Connect!
 
 <p align="center"> <a href="https://linkedin.com/in/fardin8875"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:fardinshaikh8875@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/fardinshaikh21"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
