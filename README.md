@@ -122,25 +122,6 @@ Let’s connect and build something meaningful together!
 
 ---
 
-## 🎯 Current Goals
-
-- [ ] Contribute to open source projects
-- [ ] Build a full-stack web application
-- [ ] Learn React.js framework
-- [ ] Improve problem-solving skills on LeetCode
-- [ ] Create technical blog posts
-
----
-
-## 📚 Learning Resources
-
-- FreeCodeCamp
-- The Odin Project
-- MDN Web Docs
-- Stack Overflow
-- YouTube Programming Channels
-
----
 
 ## 🤝 Let's Connect!
 
