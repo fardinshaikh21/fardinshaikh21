@@ -145,10 +145,6 @@ Let’s connect and build something meaningful together!
 
 ---   
 
-<p align="center">
-  <img src="https://github.com/fardinshaikh21/fardinshaikh21/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 <div align="center">
 
 ### ⚡ **Fun Fact of the Day**
