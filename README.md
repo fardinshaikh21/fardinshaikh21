@@ -146,5 +146,3 @@ https://komarev.com/ghpvc/?username=fardinshaikh21&color=blue&style=flat
 https://img.shields.io/github/followers/fardinshaikh21?label=Follow&style=social
 
 </div>
-📞 Contact Information
-<p align="center"> <strong>Fardin Shaikh</strong><br> ✉ fardinshaikh8875@gmail.com | ✆ +91-7028898875<br> <a href="https://linkedin.com/in/fardin8875">LinkedIn: fardin8875</a> | <a href="https://github.com/fardinshaikh21">GitHub: fardinshaikh21</a> </p>
