@@ -1,39 +1,39 @@
-# Hi there, I'm Fardin Shaikh 👋
+# 👋 Hi, I'm Fardin Shaikh  
 
-<h3 align="center">A passionate developer from India, crafting code and turning ideas into reality.</h3>
-
-<p align="center">
-  <a href="https://github.com/fardinshaikh21">
-    <img src="https://komarev.com/ghpvc/?username=fardinshaikh21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/fardinshaikh21?tab=followers">
-    <img src="https://img.shields.io/github/followers/fardinshaikh21?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+🎓 **Bachelor’s in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26  
+💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**  
+📍 Based in Pune, India  
 
 ---
 
-## 🚀 About Me
+### 💫 About Me
 
-- 🔭 I'm currently working on **improving my coding skills and building exciting projects.**
-- 🌱 I'm currently learning **Web Development, Python, and exploring new technologies.**
-- 👯 I'm looking to collaborate on **open-source projects and innovative ideas.**
-- 🤔 I'm looking for help with **advanced programming concepts and best practices.**
-- 💬 Ask me about **Python, Web Development, or any tech-related stuff!**
-- 📫 How to reach me: **fardinshaikh8875@gmail.com**
-- ⚡ Fun fact: **I can debug code better with coffee ☕**
+I’m **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.  
+I love transforming ideas into impactful solutions — from **chatbots** to **cloud-hosted platforms** — while ensuring clean, efficient, and scalable code.
+
+Currently, I’m gaining hands-on experience through internships at **CodSoft** and **SkillCraft Technology**, where I’ve worked on:  
+- 🧠 **Python scripting**, logic building, and GUI/CLI apps  
+- 📊 **Data Science & Machine Learning** projects using Pandas, Seaborn, and scikit-learn  
+- 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript  
+
+🚀 **Featured Projects:**  
+- **Cloud-Based Cluckbox Delivery System** – A responsive online chicken delivery platform deployed on AWS EC2.  
+- **College Enquiry ChatBot** – NLP-based chatbot for automating student queries using Django & NLTK.  
+
+I’m constantly learning new technologies, contributing to open-source, and sharing insights on LinkedIn.  
+Let’s connect and build something meaningful together!
+
+📫 **Contact:**  
+✉️ [fardinshaikh8875@gmail.com](mailto:fardinshaikh8875@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fardin8875) | [GitHub](https://github.com/fardinshaikh21)  
 
 ---
-
-## 🛠️ My Tech Stack & Tools
 
 # 🛠️ Technical Skills
 
 ## 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -47,6 +47,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -57,6 +58,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ---
 
 ## 🗄️ Databases
@@ -81,6 +83,12 @@
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-0080FF?style=for-the-badge&logo=network&logoColor=white)
 
 ---
+
+### 📈 GitHub Stats
+
+![Fardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardinshaikh21&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinshaikh21&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fardinshaikh21&theme=tokyonight)
 
 ## 📊 GitHub Stats
 
