@@ -122,7 +122,7 @@ Let’s connect and build something meaningful together!
 
 ---
 
-### 📝 Project Summaries  
+## 📝 Project Summaries  
 
 #### 🐔 Cloud-Based Cluckbox Delivery System  
 - Developed a **user-friendly web platform** for ordering chicken online.  
