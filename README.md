@@ -77,8 +77,6 @@
 
 ## 📂 Highlighted Projects
 
-*(Once you have projects, you can add them here like this!)*
-
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Cluckbox Delivery System](https://github.com/fardinshaikh21/project-one)** | A brief description of what this project does. | `Python` `Django` `SQL` `MongoDB` `HTML` `CSS` `Javascript`|
