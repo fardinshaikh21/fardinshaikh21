@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on **open-source projects and innovative ideas.**
 - 🤔 I’m looking for help with **advanced programming concepts and best practices.**
 - 💬 Ask me about **Python, Web Dev, or any tech-related stuff!**
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **[fardinshaikh8875@gmail.com]**
 - ⚡ Fun fact: **I believe a cup of coffee is the best debugging tool.**
 
 ---
