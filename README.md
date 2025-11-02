@@ -113,12 +113,28 @@ Let’s connect and build something meaningful together!
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Highlighted Projects  
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Cluckbox Delivery System](https://github.com/fardinshaikh21/project-one)** | A brief description of what this project does. | `Python` `Django` `SQL` `MongoDB` `HTML` `CSS` `Javascript`|
-| **[College Enquiry Chatbot](https://github.com/fardinshaikh21/project-two)** | A brief description of what this project does. | `Python` `NLP` `Djanho` `HTML` `CSS` |
+| **[Cloud-Based Cluckbox Delivery System](https://github.com/fardinshaikh21/project-one)** | A full-stack online chicken delivery platform allowing users to conveniently place orders from home. Deployed on AWS EC2 for scalable hosting. Built with a responsive UI and a robust backend to ensure smooth order management and user experience. | `Python` `Django` `HTML` `CSS` `JavaScript` `SQL` `AWS EC2` |
+| **[College Enquiry ChatBot](https://github.com/fardinshaikh21/project-two)** | A smart chatbot that helps students and applicants get college-related information instantly without needing a physical visit. Integrated NLP for natural, human-like interactions, enhancing accessibility and automation of common queries. | `Python` `Django` `NLP` `NLTK` `HTML` `CSS` `JavaScript` |
+
+---
+
+### 📝 Project Summaries  
+
+#### 🐔 Cloud-Based Cluckbox Delivery System  
+- Developed a **user-friendly web platform** for ordering chicken online.  
+- Deployed on **AWS EC2** for cloud scalability and high availability.  
+- Designed with a **responsive UI** and smooth backend integrations.  
+- Focused on **efficient data handling**, real-time updates, and an intuitive customer experience.  
+
+#### 🤖 College Enquiry ChatBot  
+- Built an **AI-powered chatbot** to assist users in retrieving college information quickly.  
+- Used **Natural Language Processing (NLP)** with **NLTK** to interpret and respond to user queries.  
+- Automated repetitive information requests, improving student interaction efficiency.  
+- Deployed with a **clean interface** for web-based accessibility.  
 
 ---
 
