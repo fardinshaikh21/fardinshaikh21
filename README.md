@@ -82,9 +82,18 @@ Let’s connect and build something meaningful together!
 
 ### 📈 GitHub Stats
 
-![Fardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardinshaikh21&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinshaikh21&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fardinshaikh21&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/fardinshaikh21">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinshaikh21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fardin's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinshaikh21&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Fardin's Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fardinshaikh21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinshaikh21&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
