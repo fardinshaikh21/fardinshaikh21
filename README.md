@@ -16,13 +16,6 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 - 📊 **Data Science & Machine Learning** projects using Pandas, Seaborn, and scikit-learn  
 - 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript  
 
-🚀 **Featured Projects:**  
-- **Cloud-Based Cluckbox Delivery System** – A responsive online chicken delivery platform deployed on AWS EC2.  
-- **College Enquiry ChatBot** – NLP-based chatbot for automating student queries using Django & NLTK.  
-
-I’m constantly learning new technologies, contributing to open-source, and sharing insights on LinkedIn.  
-Let’s connect and build something meaningful together!
-
 ---
 
 # 🛠️ Technical Skills
