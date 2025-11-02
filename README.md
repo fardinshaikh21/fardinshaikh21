@@ -81,8 +81,8 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project One](https://github.com/fardinshaikh21/project-one)** | A brief description of what this project does. | `Python` `Flask` `HTML` |
-| **[Project Two](https://github.com/fardinshaikh21/project-two)** | A brief description of what this project does. | `JavaScript` `React` `CSS` |
+| **[Cluckbox Delivery System](https://github.com/fardinshaikh21/project-one)** | A brief description of what this project does. | `Python` `Flask` `HTML` |
+| **[College Enquiry Chatbot](https://github.com/fardinshaikh21/project-two)** | A brief description of what this project does. | `JavaScript` `React` `CSS` |
 
 ---
 
