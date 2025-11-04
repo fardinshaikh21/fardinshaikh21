@@ -121,6 +121,26 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 ---   
 
+## 🤝 Let's Connect
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌐_Get_In_Touch-fc036b?style=for-the-badge&labelColor=1a1a1a" alt="Connect Header"/>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/fardinshaikh01"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a>
+  <a href="mailto:fardinshaikh8875@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Let's_Collaborate-fc036b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+  </a>
+  <a href="https://github.com/fardinshaikh21">
+    <img src="https://img.shields.io/badge/⭐_GitHub-Follow_Me-fc036b?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
 <div align="center">
 
 ### ⚡ **Fun Fact of the Day**
