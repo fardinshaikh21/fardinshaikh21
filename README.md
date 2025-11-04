@@ -129,7 +129,7 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 <div align="center">
   <a href="https://linkedin.com/in/fardinshaikh01"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect me -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
   <a href="mailto:fardinshaikh8875@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Let's_Collaborate-fc036b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
