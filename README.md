@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fardin Shaikh  
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/510df940-6997-413b-bf6f-18baff205cd7" /># 👋 Hi, I'm Fardin Shaikh  
 
 🎓 **Bachelor’s in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26  
 💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**  
@@ -129,7 +129,7 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 <div align="center">
   <a href="https://linkedin.com/in/fardinshaikh01"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect me -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+    <img src="https://img.shields.io/badge/_LinkedIn-Let's Connect me -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
   <a href="mailto:fardinshaikh8875@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Let's_Collaborate-fc036b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
