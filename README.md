@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/510df940-6997-413b-bf6f-18baff205cd7" /># 👋 Hi, I'm Fardin Shaikh  
+# 👋 Hi, I'm Fardin Shaikh  
 
 🎓 **Bachelor’s in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26  
 💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**  
