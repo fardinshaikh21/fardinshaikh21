@@ -1,4 +1,4 @@
-ss
+ssasss
 # 👋 Hi, I'm Fardin Shaikh  
 
 🎓 **Bachelor’s in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26  
