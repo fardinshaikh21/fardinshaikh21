@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Fardin Shaikh
 
-💼 **Junior Software Engineer** @ [Codism.io](https://codism.io)
-🎓 **MCA** | Dr. P. A. Inamdar University (2025 – 2027) – Currently in 2nd Year
-🎓 **Bachelor's in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26
-💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**
+# 👋 Hi, I'm Fardin Shaikh
+
+💻 **Junior Software Engineer** @ [Codism.io](https://codism.io) | 🎓 Pursuing **MCA** @ Dr. P. A. Inamdar University
 📍 Based in Pune, India
 
 ---
@@ -13,11 +12,9 @@
 I'm **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.
 I love transforming ideas into impactful solutions — from **chatbots** to **cloud-hosted platforms** — while ensuring clean, efficient, and scalable code.
 
-Currently, I'm working as a **Junior Software Engineer at Codism.io**, while also pursuing my **MCA at Dr. P. A. Inamdar University (2025–2027)**, currently in my 2nd year.
-
-Earlier, I gained hands-on experience through internships at **CodSoft** and **SkillCraft Technology**, where I worked on:
+My core interests lie in:
 - 🧠 **Python scripting**, logic building, and GUI/CLI apps
-- 📊 **Data Science & Machine Learning** projects using Pandas, Seaborn, and scikit-learn
+- 📊 **Data Science & Machine Learning** using Pandas, Seaborn, and scikit-learn
 - 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript
 
 ---
@@ -28,7 +25,7 @@ Earlier, I gained hands-on experience through internships at **CodSoft** and **S
 | :--- | :--- | :--- | :--- |
 | 💼 Work | Junior Software Engineer | [Codism.io](https://codism.io) | Present |
 | 🎓 Education | MCA (2nd Year) | Dr. P. A. Inamdar University | 2025 – 2027 |
-| 🎓 Education | Bachelor's in Computer Application | Abeda Inamdar Senior College | Graduated 2025 |
+| 🎓 Education | Bachelor's in Computer Application – CGPA 9.26 | Abeda Inamdar Senior College | Graduated 2025 |
 | 🧪 Internship | Python & Data Science Intern | CodSoft | — |
 | 🧪 Internship | Software Development Intern | SkillCraft Technology | — |
 
@@ -43,7 +40,6 @@ Earlier, I gained hands-on experience through internships at **CodSoft** and **S
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algolia&logoColor=white)
 
 ---
 
@@ -54,15 +50,12 @@ Earlier, I gained hands-on experience through internships at **CodSoft** and **S
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
