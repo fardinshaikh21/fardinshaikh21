@@ -1,22 +1,36 @@
+# 👋 Hi, I'm Fardin Shaikh
 
-
-#👋 Hi, I'm Fardin Shaikh  
-
-🎓 **Bachelor’s in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26  
-💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**  
-📍 Based in Pune, India  
+💼 **Junior Software Engineer** @ [Codism.io](https://codism.io)
+🎓 **MCA** | Dr. P. A. Inamdar University (2025 – 2027) – Currently in 2nd Year
+🎓 **Bachelor's in Computer Application (2025)** | Abeda Inamdar Senior College – CGPA: 9.26
+💻 Passionate about **Python Development**, **Full-Stack Web Applications**, and **Data Science**
+📍 Based in Pune, India
 
 ---
 
 ### 💫 About Me
 
-I’m **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.  
+I'm **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.
 I love transforming ideas into impactful solutions — from **chatbots** to **cloud-hosted platforms** — while ensuring clean, efficient, and scalable code.
 
-Currently, I’m gaining hands-on experience through internships at **CodSoft** and **SkillCraft Technology**, where I’ve worked on:  
-- 🧠 **Python scripting**, logic building, and GUI/CLI apps  
-- 📊 **Data Science & Machine Learning** projects using Pandas, Seaborn, and scikit-learn  
-- 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript  
+Currently, I'm working as a **Junior Software Engineer at Codism.io**, while also pursuing my **MCA at Dr. P. A. Inamdar University (2025–2027)**, currently in my 2nd year.
+
+Earlier, I gained hands-on experience through internships at **CodSoft** and **SkillCraft Technology**, where I worked on:
+- 🧠 **Python scripting**, logic building, and GUI/CLI apps
+- 📊 **Data Science & Machine Learning** projects using Pandas, Seaborn, and scikit-learn
+- 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript
+
+---
+
+## 💼 Experience & Education
+
+| Type | Title | Organization | Duration |
+| :--- | :--- | :--- | :--- |
+| 💼 Work | Junior Software Engineer | [Codism.io](https://codism.io) | Present |
+| 🎓 Education | MCA (2nd Year) | Dr. P. A. Inamdar University | 2025 – 2027 |
+| 🎓 Education | Bachelor's in Computer Application | Abeda Inamdar Senior College | Graduated 2025 |
+| 🧪 Internship | Python & Data Science Intern | CodSoft | — |
+| 🧪 Internship | Software Development Intern | SkillCraft Technology | — |
 
 ---
 
@@ -86,7 +100,7 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 <p align="center">
   <a href="https://github.com/fardinshaikh21">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinshaikh21&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=fardinshaikh21&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -108,7 +122,7 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 ---
 
-## 📂 Highlighted Projects  
+## 📂 Highlighted Projects
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -124,8 +138,8 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/fardinshaikh01"> 
-    <img src="https://img.shields.io/badge/_LinkedIn-Let's Connect me -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  <a href="https://linkedin.com/in/fardinshaikh01">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fardinshaikh8875@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Let's_Collaborate-fc036b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
@@ -139,10 +153,9 @@ Currently, I’m gaining hands-on experience through internships at **CodSoft** 
 
 <div align="center">
 
-### ⚡ **Fun Fact of the Day**
+### ⚡ Fun Fact of the Day
 *"The first computer bug was an actual real-life bug! 🐛"*
 
 **Thanks for visiting my profile! Have a great day!** 😄
 
 </div>
-
