@@ -24,8 +24,6 @@ My core interests lie in:
 | 💼 Work | Junior Software Engineer | [Codism.io](https://codism.io) | Present |
 | 🎓 Education | MCA (2nd Year) | Dr. P. A. Inamdar University | 2025 – 2027 |
 | 🎓 Education | Bachelor's in Computer Application – CGPA 9.26 | Abeda Inamdar Senior College | Graduated 2025 |
-| 🧪 Internship | Python & Data Science Intern | CodSoft | — |
-| 🧪 Internship | Software Development Intern | SkillCraft Technology | — |
 
 ---
 
