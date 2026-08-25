@@ -7,8 +7,6 @@
 
 ### 💫 About Me
 
-
-
 I'm **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.
 I love transforming ideas into impactful solutions — from **chatbots** to **cloud-hosted platforms** — while ensuring clean, efficient, and scalable code.
 
