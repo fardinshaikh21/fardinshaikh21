@@ -8,12 +8,13 @@
 ### 💫 About Me
 
 I'm **Fardin Shaikh**, a motivated and tech-driven developer with a deep interest in **building intelligent, data-powered, and user-focused applications**.
-I love transforming ideas into impactful solutions — from **chatbots** to **cloud-hosted platforms** — while ensuring clean, efficient, and scalable code.
+I love transforming ideas into impactful solutions - from **chatbots** to **cloud-hosted platforms** - while ensuring clean, efficient, and scalable code.
 
 My core interests lie in:
+- 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript
 - 🧠 **Python scripting**, logic building, and GUI/CLI apps
 - 📊 **Data Science & Machine Learning** using Pandas, Seaborn, and scikit-learn
-- 🌐 **Full-stack development** with Django, HTML, CSS, and JavaScript
+
 
 ---
 
