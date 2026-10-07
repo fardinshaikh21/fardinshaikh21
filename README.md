@@ -15,7 +15,6 @@ My core interests lie in:
 - 🧠 **Python scripting**, logic building, and GUI/CLI apps
 - 📊 **Data Science & Machine Learning** using Pandas, Seaborn, and scikit-learn
 
-
 ---
 
 ## 💼 Experience & Education
