@@ -16,8 +16,6 @@ My core interests lie in:
 - 📊 **Data Science & Machine Learning** using Pandas, Seaborn, and scikit-learn
 
 
-
-
 ---
 
 ## 💼 Experience & Education
