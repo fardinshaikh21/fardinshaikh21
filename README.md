@@ -91,7 +91,7 @@ I build data-driven, user-focused applications, from NLP chatbots to cloud-hoste
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Real Estate Website](https://benimproperty.in)** | Property listing platform where users can browse listings, view property details, and send enquiries. Built with a responsive, mobile-friendly interface. | `Python` `Django` `HTML` `CSS` `JavaScript` `SQL` |
+| **[Real Estate Website](https://www.benimproperties.in)** | Property listing platform where users can browse listings, view property details, and send enquiries. Built with a responsive, mobile-friendly interface. | `Python` `Django` `HTML` `CSS` `JavaScript` `SQL` |
 | **[BrandPropel Studio](https://brandpropelstudio.com)** | Website for a digital marketing agency showcasing its services, portfolio, and contact channels, designed to build brand credibility and generate leads. | `HTML` `CSS` `JavaScript` |
 | **[BenimCars](https://benimcars.com)** | Car-focused website for presenting vehicles and capturing customer enquiries, with a clean, responsive layout. | `Python` `Django` `HTML` `CSS` `JavaScript` `Nginx` `Gunicorn` `Hostinger`|
 | **[Cloud-Based Cluckbox Delivery System](https://github.com/fardinshaikh21/project-one)** | Full-stack online ordering and delivery platform with a responsive UI and a robust backend for order management. Deployed on AWS EC2 for scalable hosting. | `Python` `Django` `HTML` `CSS` `JavaScript` `SQL` `AWS EC2` |
